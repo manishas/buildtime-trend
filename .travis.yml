@@ -1,6 +1,6 @@
 python:
-    - "2.7"
-    language: python
+    - "2.6"
+language: python
 env:
   global:
     secure: "dR5giy/zGN6FmS4rlJ+RTSwKrbcMSxP9TJ4uW3eT7SpcAHBLPmW1/46vMAVGlHSqjdW0w+DxRjxrLMmo9g3ZZsqFExiXM19W2sbyAuwiAa2WLDTL3IdEdw/wCJm9W1usrRB/oGQjsBvkTzzXlobLXUTcADhUfBSj6XjMiduSAsA="
